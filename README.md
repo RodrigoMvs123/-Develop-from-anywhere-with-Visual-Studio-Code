@@ -4,7 +4,7 @@ https://www.youtube.com/live/dggcqfGe1xs?feature=share
 
 https://raw.githubusercontent.com/RodrigoMvs123/-Develop-from-anywhere-with-Visual-Studio-Code/main/README.md
 
-
+https://github.com/RodrigoMvs123/-Develop-from-anywhere-with-Visual-Studio-Code/blame/main/README.md
 
 Architecture
 
